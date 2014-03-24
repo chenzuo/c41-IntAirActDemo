@@ -1,0 +1,10 @@
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ServiceDiscoveryTests.dll.config
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ServiceDiscoveryTests.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ServiceDiscoveryTests.pdb
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ServiceDiscovery.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ZeroconfService.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ZeroconfService.pdb
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\bin\Debug\ServiceDiscovery.pdb
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\obj\Debug\ServiceDiscoveryTests.csprojResolveAssemblyReference.cache
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\obj\Debug\ServiceDiscoveryTests.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\ServiceDiscoveryTests\obj\Debug\ServiceDiscoveryTests.pdb

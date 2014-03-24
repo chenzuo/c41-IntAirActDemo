@@ -1,0 +1,4 @@
+C:\Users\Gabi\IntAirActTest\IntAirActCS\Frameworks\ZeroConfigNetServices\ZeroconfService\bin\Debug\ZeroconfService.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\Frameworks\ZeroConfigNetServices\ZeroconfService\bin\Debug\ZeroconfService.pdb
+C:\Users\Gabi\IntAirActTest\IntAirActCS\Frameworks\ZeroConfigNetServices\ZeroconfService\obj\Debug\ZeroconfService.dll
+C:\Users\Gabi\IntAirActTest\IntAirActCS\Frameworks\ZeroConfigNetServices\ZeroconfService\obj\Debug\ZeroconfService.pdb
